@@ -8,5 +8,6 @@ Removing the amount of memory used by the monitor assists with quantifying the a
 
 
 ![Picture](./src/memorymonitor/memory_monitor_GUI.png)
+
 -memory monitor with host application-
 
